@@ -2,14 +2,22 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Animated Blob Ring</title>
-  <link rel="stylesheet" href="me.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="Style.css">
+  <title>Document</title>
 </head>
 <body>
   <div class="ring">
-    <i></i>
-    <i></i>
-    <i></i>
+    <div class="picparent">
+      <img src="https://i.pravatar.cc/220" alt="My portrait">
+    </div>
+    <div class="bigger-circle"></div>
+    <div class="midium-circle"></div>
+    <div class="bigger-square"></div>
+    <div class="midium-square"></div>
+    <div class="up-left"></div>
+    <div class="down-left"></div>
+    <div class="up-right"></div>
+    <div class="down-right"></div>
   </div>
 </body>
-</html>
